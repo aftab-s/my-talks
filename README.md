@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/35aadea9-b5ab-42f3-b0b9-8f3b9fead709)
-
+![GitHub Public Previews - My-Talks](https://github.com/user-attachments/assets/198bc83d-207d-4ae2-92fd-594ea0e5dec3)
 
 # 2024 Talks and Sessions  
 
