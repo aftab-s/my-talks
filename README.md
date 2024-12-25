@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/35aadea9-b5ab-42f3-b0b9-8f3b9fead709)
+
+
 # 2024 Talks and Sessions  
 
 This repository serves as a collection of all the presentation materials and resources I’ve used for my talks and sessions in 2024. It includes slides, references, and other supporting content to help you revisit the topics or explore them further. Below is a summary of the events:  
