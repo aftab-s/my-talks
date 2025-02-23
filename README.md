@@ -1,8 +1,19 @@
 ![GitHub Public Previews - My-Talks](https://github.com/user-attachments/assets/198bc83d-207d-4ae2-92fd-594ea0e5dec3)
 
-# 2024 Talks and Sessions  
+# Talks and Sessions  
+This repository serves as a collection of all the presentation materials and resources I’ve used for my talks and sessions. It includes slides, references, and other supporting content to help you revisit the topics or explore them further. 
 
-This repository serves as a collection of all the presentation materials and resources I’ve used for my talks and sessions in 2024. It includes slides, references, and other supporting content to help you revisit the topics or explore them further. Below is a summary of the events:  
+### How to Use  
+- Navigate to the corresponding "Resources" link in the table to access slides and other materials for each talk.  
+- Feel free to reference these materials or reach out to me if you have any questions!
+
+Below is a summary of the events: 
+# 2025
+| S.No. | Title                                 | Resources                 | Conference/Meetup         | Date       | Venue                   |  
+|-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
+| 1     | Enforcing Security and Compliance with Kubernetes Policy Engines  | [TBA](https://TBA) | ​DevConf.IN 2025   | 28th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
+
+# 2024
 
 | S.No. | Title                                 | Resources                 | Conference/Meetup         | Date       | Venue                   |  
 |-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
@@ -12,10 +23,6 @@ This repository serves as a collection of all the presentation materials and res
 | 4     | Getting Started with Cloud               | [Slides](https://1drv.ms/b/s!Ao82hu8dRpnVgRxOqDx-7522bcF3?e=XgVhZH) | MEC.conf Developer Conference        | 6th October        | MEC, Kochi, Kerala                     |  
 | 5     | Build Interactive Dashboards from Scratch with Grafana           | [Slides](https://1drv.ms/b/s!Ao82hu8dRpnVgQ1Les7rPw_RbHaa?e=EldZ7Z) | DevFest Kochi 2024 | 26th October    | XIME, Kochi, Kerala                     |  
 | 6     | Grafana 101 - An introduction to Grafana             | [Slides](https://1drv.ms/b/s!Ao82hu8dRpnVgQ7tFcznZootSIGi?e=eZz4Xs) | Computer Literacy Day        | 2nd December        | Sacred Hearts, Kochi, Kerala                  |  
-
-### How to Use  
-- Navigate to the corresponding "Resources" link in the table to access slides and other materials for each talk.  
-- Feel free to reference these materials or reach out to me if you have any questions!  
 
 ### License  
 All materials are shared for educational purposes. Please attribute appropriately when sharing or using them.  
