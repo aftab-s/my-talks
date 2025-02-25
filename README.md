@@ -11,7 +11,7 @@ Below is a summary of the events:
 # 2025
 | S.No. | Title                                 | Resources                 | Conference/Meetup         | Date       | Venue                   |  
 |-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
-| 1     | Enforcing Security and Compliance with Kubernetes Policy Engines  | [TBA](https://TBA) | ​DevConf.IN 2025   | 28th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
+| 1     | Enforcing Security and Compliance with Kubernetes Policy Engines  | [Slides](https://1drv.ms/b/c/d599461def86368f/EagLSvaepMdPqxnVVyVrucsBkb8NkfBT7yrpKGxKV0ErRA?e=E4vFkR) | ​DevConf.IN 2025   | 28th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
 
 # 2024
 
