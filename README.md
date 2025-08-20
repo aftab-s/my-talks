@@ -13,7 +13,8 @@ Below is a summary of the events:
 |-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
 | 1     | Enforcing Security and Compliance with Kubernetes Policy Engines  | [Slides](https://1drv.ms/b/c/d599461def86368f/EagLSvaepMdPqxnVVyVrucsBkb8NkfBT7yrpKGxKV0ErRA?e=E4vFkR) [YouTube](https://youtu.be/9I_RPOoCzlY) | ​DevConf.IN 2025   | 28th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
 | 2     | From Noise to Signal Piping Your Way to Clear Observability  | [Slides](https://1drv.ms/b/c/d599461def86368f/EVdDtxoUHf9Bip0-9EzqdLYBhXCThJWm0Og4_16g21qDbQ?e=Pg6JqI) [YouTube](https://youtu.be/-D1NSQRwNK8) | ​RootConf 2025   | 17th May | Bangalore International Centre, Bengaluru, Karnataka     |  
-| 3     | Introduction to AWS Cloud  | [Slides](https://1drv.ms/b/c/d599461def86368f/ERblqN7bAuJDkRvW9oqPU1cBzLopQeomvZKG-dx5O2NKJw?e=sJ5uVc) | ​CUSAT DCA   | 21st August | School of Engineering, CUSAT, Cochin     |  
+| 3     | Introduction to Terraform  | [Slides](https://1drv.ms/b/c/d599461def86368f/EVolQZV0o0pAktgKR9oasf4BxOnCdFz3VCtz69XPGvsAyA?e=uZL5et) | ​Computron DevOps-RSB1  | 30th July | Remote  [Trivandrum]   | 
+| 4     | Introduction to AWS Cloud  | [Slides](https://1drv.ms/b/c/d599461def86368f/ERblqN7bAuJDkRvW9oqPU1cBzLopQeomvZKG-dx5O2NKJw?e=sJ5uVc) | ​CUSAT DCA   | 21st August | School of Engineering, CUSAT, Cochin     |  
 
 # 2024
 
