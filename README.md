@@ -16,6 +16,7 @@ Below is a summary of the events:
 | 3     | Introduction to Terraform  | [Slides](https://1drv.ms/b/c/d599461def86368f/EVolQZV0o0pAktgKR9oasf4BxOnCdFz3VCtz69XPGvsAyA?e=uZL5et) | ​Computron DevOps-RSB1  | 30th July | Remote  [Trivandrum]   | 
 | 4     | Introduction to AWS Cloud  | [Slides](https://1drv.ms/b/c/d599461def86368f/ERblqN7bAuJDkRvW9oqPU1cBzLopQeomvZKG-dx5O2NKJw?e=sJ5uVc) | ​CUSAT DCA   | 21st August | School of Engineering, CUSAT, Cochin     |  
 | 5     | The Observability of Everything : Instrumenting Science with DevOps Tools  | [Slides](https://1drv.ms/b/c/d599461def86368f/EWJ2FHQ-XRdEjzXT-6MMh34BRUPNjYRNvUU8zBxpSVKPbQ?e=md1bot) [YouTube](https://www.youtube.com/watch?v=NyQced4oJVM)| IndiaFOSS 2025  | 21st September | Nimhans Convention Centre, Bengaluru, Karnataka     |  
+| 6     | The Observability of Everything : Instrumenting Science with DevOps Tools  | [Slides](https://1drv.ms/b/c/d599461def86368f/Ef-cF-V_FB9KljEdlCLLwBIBs6mTrK9MFlJ8OpGFqFx9pw?e=YE3VWt)  | Grafana and Friends Kochi Meetup - October 2025 | 18th October     | Jain University, Kochi Campus, Kochi
 
 # 2024
 
