@@ -18,6 +18,7 @@ Below is a summary of the events:
 | 5     | The Observability of Everything : Instrumenting Science with DevOps Tools  | [Slides](https://1drv.ms/b/c/d599461def86368f/EWJ2FHQ-XRdEjzXT-6MMh34BRUPNjYRNvUU8zBxpSVKPbQ?e=md1bot) [YouTube](https://www.youtube.com/watch?v=NyQced4oJVM)| IndiaFOSS 2025  | 21st September | Nimhans Convention Centre, Bengaluru, Karnataka     |  
 | 6     | Let's Talk to Dashboards with Grafana MCP  | [Slides](https://1drv.ms/b/c/d599461def86368f/Ef-cF-V_FB9KljEdlCLLwBIBs6mTrK9MFlJ8OpGFqFx9pw?e=YE3VWt)  | Grafana and Friends Kochi Meetup - October 2025 | 18th October     | Jain University, Kochi Campus, Kochi
 | 7     | eBPF-Powered Security in Kubernetes : The Story of Tetragon  | [Slides](https://www.canva.com/design/DAG3MRkKw_E/xO2rEGj71WoidRHN4CTEeA/edit?utm_content=DAG3MRkKw_E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  | 22nd Open Source India 2025 | 5th November   | Nimhans Convention Centre, Bengaluru, Karnataka
+| 8     | Conversational Observability with Grafana MCP  | [Slides](https://www.canva.com/design/DAHBkSSiUeo/2AxNszeg8wzQBr9cB9-4Fw/view?utm_content=DAHBkSSiUeo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfba22837b9)  | Cloud Native Trivandrum November Meetup | 22th November   | Travancore Hall, Technopark, Trivandrum
 
 # 2024
 
