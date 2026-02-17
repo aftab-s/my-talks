@@ -8,7 +8,15 @@ This repository serves as a collection of all the presentation materials and res
 - Feel free to reference these materials or reach out to me if you have any questions!
 
 Below is a summary of the events: 
+
+# 2026
+
+| S.No. | Title                                 | Resources                 | Conference/Meetup         | Date       | Venue                   |  
+|-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
+| 1     | eBPF-Driven Security for Kubernetes: The Tetragon Story  | [Slides](https://www.canva.com/design/DAHBkaWvLko/bf1cMl15kQ-aCpo6pki4Pw/view?utm_content=DAHBkaWvLko&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha505e69bcd) [YouTube]() | ​DevConf.IN 2026   | 14th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
+
 # 2025
+
 | S.No. | Title                                 | Resources                 | Conference/Meetup         | Date       | Venue                   |  
 |-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
 | 1     | Enforcing Security and Compliance with Kubernetes Policy Engines  | [Slides](https://1drv.ms/b/c/d599461def86368f/EagLSvaepMdPqxnVVyVrucsBkb8NkfBT7yrpKGxKV0ErRA?e=E4vFkR) [YouTube](https://youtu.be/9I_RPOoCzlY) | ​DevConf.IN 2025   | 28th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
