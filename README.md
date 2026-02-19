@@ -27,6 +27,7 @@ Below is a summary of the events:
 | 6     | Let's Talk to Dashboards with Grafana MCP  | [Slides](https://1drv.ms/b/c/d599461def86368f/Ef-cF-V_FB9KljEdlCLLwBIBs6mTrK9MFlJ8OpGFqFx9pw?e=YE3VWt)  | Grafana and Friends Kochi Meetup - October 2025 | 18th October     | Jain University, Kochi Campus, Kochi
 | 7     | eBPF-Powered Security in Kubernetes : The Story of Tetragon  | [Slides](https://www.canva.com/design/DAG3MRkKw_E/xO2rEGj71WoidRHN4CTEeA/edit?utm_content=DAG3MRkKw_E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  | 22nd Open Source India 2025 | 5th November   | Nimhans Convention Centre, Bengaluru, Karnataka
 | 8     | Conversational Observability with Grafana MCP  | [Slides](https://www.canva.com/design/DAHBkSSiUeo/2AxNszeg8wzQBr9cB9-4Fw/view?utm_content=DAHBkSSiUeo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfba22837b9)  | Cloud Native Trivandrum November Meetup | 22th November   | Travancore Hall, Technopark, Trivandrum
+| 9     | Human Behind the Tech #1 - Building GitHub Wrapped, Open Source & Community, ft. Aftab S  | [YouTube](https://youtu.be/AHr61o6pJHk?si=YjNrY_M_XNTgKX25)  | Podcast - Human Behind the Tech | 22nd December   | Beyond X, YouTube
 
 # 2024
 
