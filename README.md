@@ -14,6 +14,7 @@ Below is a summary of the events:
 | S.No. | Title                                 | Resources                 | Conference/Meetup         | Date       | Venue                   |  
 |-------|---------------------------------------|---------------------------|---------------------------|------------|-------------------------|  
 | 1     | eBPF-Driven Security for Kubernetes: The Tetragon Story  | [Slides](https://www.canva.com/design/DAHBkaWvLko/bf1cMl15kQ-aCpo6pki4Pw/view?utm_content=DAHBkaWvLko&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha505e69bcd) [YouTube](https://youtu.be/-GjBe9KgMXc) | ​DevConf.IN 2026   | 14th February | MIT World Peace Univsersity, Pune, Maharashtra     |  
+| 2     | Open-Source, Communities & The Power of Giving Back  | [Slides](https://canva.link/q6tz0wl2h98c1t9) | Oh My Google 2026   | 12th September | The Nippon Kerala Centre, Kochi, Kerala     |  
 
 # 2025
 
